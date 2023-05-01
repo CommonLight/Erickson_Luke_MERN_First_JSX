@@ -1,5 +1,7 @@
 .App {
-  text-align: center;
+  text-align: left;
+  margin-left: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .App-logo {
@@ -11,6 +13,22 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+h1 {
+  font-size: 36pt;
+}
+
+h2 {
+  font-size: 24pt;
+  margin-top: -14px;
+}
+
+li {
+  list-style: none;
+  margin-left: -20px;
+  line-height: 30px;
+  font-size: 14pt;
 }
 
 .App-header {
